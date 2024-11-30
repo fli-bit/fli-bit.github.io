@@ -130,12 +130,13 @@
 .paperinf {
   font-weight: 800;
   font-display: block;
+  color: red;
 }
 .myname {
-  color: brown;
+  color: black;
   font-weight: 800;
   /* font-style: italic; */
-  /* font-display: block; */
+  font-display: block; 
 }
 .paperlist {
   /* display:inline; */
